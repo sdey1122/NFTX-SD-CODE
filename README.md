@@ -1,4 +1,6 @@
-NFTX – A Modern, Responsive NFT Marketplace Website
+🌐 NFTX – A Modern, Responsive NFT Marketplace Website
+
+💎 Website Link -> https://sdey1122.github.io/NFTX-SD-CODE/
 
 NFTX is a modern, interactive NFT marketplace frontend project designed to showcase trending NFT auctions, featured artists, and community engagement — all wrapped in a sleek dark-themed aesthetic.
 Built with a modular structure and reusable components, it provides a realistic web app feel using pure frontend technologies.
